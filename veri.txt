@@ -1,0 +1,7 @@
+E(1#Ali Sarı)
+E(2#Veli Yalı)
+E(3#Ayşe Koru)
+E(4#Su Beyaz)
+
+
+
